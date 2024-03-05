@@ -1,0 +1,5 @@
+﻿{
+  "model": "chatdj",
+  "endpoint": "https://azoaidj.openai.azure.com/",
+  "apikey": "7f629b03e6524736a64127d31abf5029"
+}
